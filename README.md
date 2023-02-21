@@ -93,7 +93,7 @@ A website for storing and retrieving books
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](...)
+- [Live Demo Link](https://besufekad-haz.github.io/Awesome-books-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,14 +134,6 @@ To run tests, run the following command:
 To check Styelint error:-
 
 npx stylelint "\*_/_.{css,scss}"
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 

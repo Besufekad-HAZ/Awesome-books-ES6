@@ -1,14 +1,13 @@
-
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'lato', sans-serif;
+  font-family: "lato", sans-serif;
 }
 
 body {
   padding: 30px;
-  background: url(./images/bg.jpg);
+  background: url(../Awesome-books-ES6/images/bg.jpg);
   background-size: 100% 100vh;
   background-repeat: no-repeat;
   color: white;

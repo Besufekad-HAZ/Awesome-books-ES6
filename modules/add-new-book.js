@@ -1,7 +1,8 @@
 import booksList from './manage-books.js'
 
 const addBookForm = () => {
-  document.querySelector('#add_new_book_btn')
+  document
+    .querySelector('#add_new_book_btn')
     .addEventListener('click', (event) => {
       event.preventDefault()
       const addBookForm = document.forms.add_book_form

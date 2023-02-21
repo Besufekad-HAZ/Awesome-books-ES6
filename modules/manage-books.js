@@ -1,5 +1,6 @@
 import { currentActivelink } from './page-navigation.js'
 // class for the books container
+
 class AwesomeBooks {
   constructor () {
     this.books = JSON.parse(localStorage.getItem('books')) || []

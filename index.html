@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="images/awesome_books.jpg" />
+    <link rel="stylesheet" href="./index.css" />
+    <script src="./index.js" type="module"></script>
+    <title>Awesome Books</title>
+  </head>
+  <body>
+    <header>
+      <div id="navbar">
+        <h1 href="#books_container">Awesome Books</h1>
+        <nav class="nav-links">
+          <a href="#books_container" class="book-list">List</a>
+          <a href="#add_new_book" class="add-book">Add new</a>
+          <a href="#contact_section" class="contact">Contact</a>
+        </nav>
+      </div>
+      <div id="date-display"></div>
+    </header>
+    <main>
+      <section id="books_container">
+        <h2>Awesome Books</h2>
+        <div id="book_list"></div>
+        <p>No books available!</p>
+      </section>
+
+      <section id="add_new_book">
+        <form id="add_book_form">
+          <h2>Add a New Book</h2>
+          <input name="bookTitleInput" placeholder="Title" />
+          <input name="bookAuthorInput" placeholder="Author" />
+          <button type="submit" id="add_new_book_btn">Add</button>
+        </form>
+      </section>
+
+      <section id="contact_section">
+        <h2>Contact information</h2>
+        <p>
+          Do have any questions or you just want to say "Hello"? You can reach
+          out to us!
+        </p>
+        <ul>
+          <li>Our e-mail: mail@mail.com</li>
+          <li>Our phone number: 0043586534422</li>
+          <li>Our address: Streetname 22, 84503 City, Country</li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>© 2023, All Rights Reserved || Awesome Books</p>
+    </footer>
+  </body>
+</html>

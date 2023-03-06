@@ -83,7 +83,7 @@ A website for storing and retrieving books
 
 ## 🚀 Screenshot <a name="screenshot"></a>
 
-![image](https://user-images.githubusercontent.com/23375153/217803810-3a3d8691-267c-4303-a68a-76139ddc6d2f.png)
+![image](https://github.com/Besufekad-HAZ/My_Portfolio/blob/main/img/work-2.jpg?raw=true)
 
 ## 💻 Loom Presentation Video <a name="loom-video"></a>
 

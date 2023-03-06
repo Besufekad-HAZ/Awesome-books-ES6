@@ -160,12 +160,6 @@ Example:
 - Twitter: [@BesufekadAlemu7](https://twitter.com/BesufekadAlemu7)
 - LinkedIn: [@besura](www.linkedin.com/in/besura)
 
-👤 **Precious Betine**
-
-- GitHub: [@preciousbetine](https://github.com/preciousbetine)
-- Twitter: [@preciousbetine](https://twitter.com/preciousbetine)
-- LinkedIn: [preciousbetine](https://linkedin.com/in/preciousbetine)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
